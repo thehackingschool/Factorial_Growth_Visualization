@@ -1,6 +1,4 @@
 <pre>
-    
-</pre>
 A good way to visualize factorial growth: 
 1) a cell divides in 2
 2) each child cell will then divide in 3
@@ -10,3 +8,5 @@ A good way to visualize factorial growth:
 .
 .
 and so on ...
+
+</pre>
