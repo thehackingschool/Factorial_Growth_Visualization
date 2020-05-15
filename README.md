@@ -9,4 +9,4 @@ A good way to visualize factorial growth:
 and so on ...  
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/thehackingschool/Factorial_Growth_Visualization/blob/master/fermat_fact.jpg)
